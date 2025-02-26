@@ -1,7 +1,7 @@
 import streamlit as st
 # Set page title and favicon
 st.set_page_config(page_title="Login Page", page_icon="🔐", layout="centered")
-st.image("https://www.wallpaperflare.com/one-piece-wallpaper-anime-brook-one-piece-franky-one-piece-wallpaper-sfswd", use_column_width=True)
+st.image("https://www.wallpaperflare.com/one-piece-wallpaper-anime-brook-one-piece-franky-one-piece-wallpaper-sfswd", use_container_width=True)
 # Centered Login Form
 st.markdown("<h1>PIRATES RECORDS</h1>", unsafe_allow_html=True)
 st.write("")
