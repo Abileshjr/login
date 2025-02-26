@@ -9,7 +9,6 @@ def add_bg_from_url():
     [data-testid="stAppViewContainer"] {
         background-image: url("https://www.wallpaperflare.com/one-piece-wallpaper-anime-brook-one-piece-franky-one-piece-wallpaper-sfswd");
         background-size: cover;
-        background-position: center;
         background-repeat: no-repeat;
     }
 
