@@ -1,5 +1,5 @@
 import streamlit as st
-st0.set_page_config(page_title="Login Page", page_icon="🔐", layout="centered")
+st.set_page_config(page_title="Login Page", page_icon="🔐", layout="centered")
 st.image(r"C:\Users\kidjiraiya\Desktop\anime-one-piece-brook-one-piece-franky-one-piece-wallpaper-preview.jpg", use_container_width=True)
 # for Centered Login Form
 st.markdown("<h1>PIRATES RECORDS</h1>", unsafe_allow_html=True)
