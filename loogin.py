@@ -4,7 +4,7 @@ st.markdown(
     """
     <style>
     [data-testid="stAppViewContainer"] {
-        background-image: url("https://editorial.pxcrush.net/carsales/general/editorial/2024-ford-mustang-gt-fastback-manual-05.jpg?width=1024&height=682");
+        background-image: url("https://c4.wallpaperflare.com/wallpaper/965/883/624/manga-one-piece-wallpaper-preview.jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
