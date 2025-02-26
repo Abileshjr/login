@@ -1,6 +1,5 @@
 import streamlit as st
 st.set_page_config(page_title="Login Page", page_icon="🔐", layout="centered")
-st.image(r"https://c4.wallpaperflare.com/wallpaper/778/348/985/anime-one-piece-brook-one-piece-franky-one-piece-wallpaper-preview.jpg", use_container_width=True)
 st.markdown(
     """
     <style>
