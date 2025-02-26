@@ -1,6 +1,28 @@
 import streamlit as st
 st.set_page_config(page_title="Login Page", page_icon="🔐", layout="centered")
 st.image(r"https://c4.wallpaperflare.com/wallpaper/778/348/985/anime-one-piece-brook-one-piece-franky-one-piece-wallpaper-preview.jpg", use_container_width=True)
+st.markdown(
+    """
+    <style>
+    [data-testid="stAppViewContainer"] {
+        background-image: url("https://c4.wallpaperflare.com/wallpaper/778/348/985/anime-one-piece-brook-one-piece-franky-one-piece-wallpaper-preview.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    [data-testid="stForm"] {
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 30px;
+        border-radius: 10px;
+    }
+    h1, label {
+        color: white !important;
+        text-align: center;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 # for Centered Login Form
 st.markdown("<h1>PIRATES RECORDS</h1>", unsafe_allow_html=True)
 st.write("")
